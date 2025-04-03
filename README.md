@@ -21,7 +21,7 @@ Lexicon is an book browsing and reading platform, users can read best books for 
 To clone the repository locally, use the following commands:
 
 ```bash
-git clone https://github.com/your-username/lexicon.git 
+git clone https://github.com/chetanchaudhari789/Lexicon.git
 cd lexicon
 ```
 
